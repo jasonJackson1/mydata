@@ -1,10 +1,10 @@
 {
     "announces": [
         {
-            "message": "",
-            "link": "",
+            "message": "test",
+            "link": "https://github.com/",
             "id": 1,
-            "tag": ""
+            "tag": "公告"
         }
     ],
     "code": 0,
